@@ -2,6 +2,9 @@
 
 ## 엔진기초 실습 참고 자료
 
+✅11-1회차
+- socket(무기 추가 시연)
+
 ✅10-2회차
 - 애님 몽타주 + 애님 blend
 - blend per bone, blend by bool 노드 사용.
